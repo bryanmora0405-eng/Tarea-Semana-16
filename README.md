@@ -1,4 +1,4 @@
-# Gestor de Tareas - Semana 16 (UEA)
+# Gestor de Tareas - Semana 16
 
 Aplicación de escritorio modular con interfaz gráfica y atajos de teclado, evolucionando la Tarea de la Semana 15.
 
